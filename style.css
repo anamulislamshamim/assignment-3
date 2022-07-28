@@ -5,8 +5,9 @@
 .carousel-item1-bg-image-sizing{
     background:linear-gradient( rgba(0, 0, 0, 0.7) 100%, rgba(0, 0, 0, 0.7) 100%),
     url('images/cover/cover-1.png');
-    background-size: cover;
+    background-size:cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 /* carousel item-2  */
 .carousel-item2-bg-image-sizing{
@@ -14,6 +15,7 @@
     url('images/cover/cover-2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 /* carousel item-3  */
 .carousel-item3-bg-image-sizing{
@@ -21,4 +23,5 @@
     url('images/cover/cover-3.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
